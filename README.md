@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)
+![Header](https://img.freepik.com/premium-photo/space-galaxy-planets-stars-4k-ultra-hd-wallpaper-stunning-space-scifi-art-android-windows_955695-998.jpg)
 
 <h1 align="center">Hi 👋, I'm Shree Rankhamb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
