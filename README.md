@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **shreerankhamb@gmail.com**
 
-- ⚡ Fun fact **Introvert but Good Listener**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shree rankhamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shree rankhamb" height="30" width="40" /></a>
